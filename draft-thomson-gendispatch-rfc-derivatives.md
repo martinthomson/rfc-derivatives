@@ -9,18 +9,18 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "General"
+workgroup: "General Area Dispatch"
 keyword:
  - license
  - mumbo jumbo
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "General Area Dispatch"
+  type: "Working Group"
+  mail: "gendispatch@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/gendispatch/"
+  github: "martinthomson/rfc-derivatives"
+  latest: "https://martinthomson.github.io/rfc-derivatives/draft-thomson-gendispatch-rfc-derivatives.html"
 
 author:
  -
