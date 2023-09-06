@@ -36,6 +36,9 @@ normative:
     target: "https://trustee.ietf.org/documents/trust-legal-provisions/"
     author:
       - org: IETF Trust
+    seriesinfo:
+      Revision: 5.0
+    date: 2015-03-25
 
 informative:
 
