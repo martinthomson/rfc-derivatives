@@ -46,8 +46,8 @@ informative:
 --- abstract
 
 The IETF Trust holds rights to RFCs.  This document updates RFC 5377 to request
-that the IETF Trust change its licensing to permit the creation of derivative
-works.
+that the IETF Trust change its licensing for IETF documents to permit the
+creation of derivative works.
 
 
 --- middle
