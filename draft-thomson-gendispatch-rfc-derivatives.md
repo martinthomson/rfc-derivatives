@@ -145,10 +145,10 @@ produced in relation to the activity of other RFC streams (IRTF, IAB, and
 independent).  The IETF cannot advise the IETF Trust as it relates to licenses
 on RFCs published in these other streams.
 
-Ideally, other streams would adopt the amended license terms, as that ensures
-consistency across the RFC series and for work contributed to other streams.
-However, this document cannot serve as advice from other streams; it only
-captures IETF consensus.
+Ideally, other streams would adopt the amended license terms, as they have done
+for the existing license {{LICENSE}}.  That would ensure consistency across the
+RFC series and for work contributed to other streams.  However, this document
+cannot serve as advice from other streams; it can only capture IETF consensus.
 
 
 # Older RFCs {#old}
