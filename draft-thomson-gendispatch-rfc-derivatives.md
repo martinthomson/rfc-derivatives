@@ -103,7 +103,7 @@ monopoly over the maintenance of protocols that are published as IETF documents.
 
 While contributors are able to provide a license for this purpose, that depends
 on securing permission from all contributors.  The collaborative nature of IETF
-work makes it difficult to seek this sort of license.  The IETF Trust is in a
+work makes it difficult to obtain this sort of license.  The IETF Trust is in a
 position to make more permissive terms more readily available.
 
 Similar considerations apply to other document streams: IAB, IRTF, or
