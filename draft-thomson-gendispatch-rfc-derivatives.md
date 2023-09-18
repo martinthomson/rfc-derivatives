@@ -84,7 +84,7 @@ Over time, the IETF has published documents on a very wide range of topics.  The
 quality of IETF publications depends on the ability for the IETF to find a
 sufficient number of participants with expertise in the topic area.
 
-The IETF enjoys a strong reputation as a venue for the standardization of
+The IETF has an excellent reputation as a venue for the standardization of
 Internet protocols.  The protocols and documents produced by the IETF are well
 respected.  The IETF enjoys strong ongoing support and so appears to be a good
 choice of venue for standardization in the areas in which the community has
