@@ -130,10 +130,14 @@ original.
 
 ## Withholding of Naming Rights {#naming}
 
-The IETF Trust is advised to make the license to create derivative works not
-include the right to use protocol names when creating new versions of existing
+The IETF Trust is advised to make the license to create derivative works subject
+to the use of a distinct protocol name when creating new versions of existing
 protocols.  This need not apply to reused or copied protocol elements or fields;
 it only applies to the protocol, extension, or component that is being revised.
+The IETF Trust should maintain the ability to permit the reuse of a name in
+appropriate cases, such as when the IETF agrees to transfer development of
+a protocol to a different organization or where the IETF has decided not
+to take up a given piece of work and the proponents bring it elsewhere.
 
 The potential for confusion about the status of a derivative work is not
 completely avoidable.  However, the requirement to use a new name for protocols
