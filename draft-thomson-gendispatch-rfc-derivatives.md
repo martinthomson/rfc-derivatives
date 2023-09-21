@@ -134,6 +134,7 @@ The IETF Trust is advised to make the license to create derivative works subject
 to the use of a distinct protocol name when creating new versions of existing
 protocols.  This need not apply to reused or copied protocol elements or fields;
 it only applies to the protocol, extension, or component that is being revised.
+
 The IETF Trust should maintain the ability to permit the reuse of a name in
 appropriate cases, such as when the IETF agrees to transfer development of
 a protocol to a different organization or where the IETF has decided not
