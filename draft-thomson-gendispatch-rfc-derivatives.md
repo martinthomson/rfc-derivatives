@@ -30,11 +30,12 @@ author:
     email: mt@lowentropy.net
     country: AU
 
--   fullname: Eric Rescorla
+ -
+    fullname: Eric Rescorla
     organization: Windy Hill Systems, LLC
     email: ekr@rtfm.com
     country: US
-    
+
 normative:
   LICENSE:
     title: "Trust Legal Provisions (TLP)"
