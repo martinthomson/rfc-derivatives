@@ -64,13 +64,14 @@ The IETF produces RFCs to further its mission {{?RFC3935}} of improving the
 Internet.  Intellectual property rights for these documents are held by the IETF
 Trust {{?BCP101}}.
 
-Previous advice to the IETF Trust advised that usage rights for IETF documents
-be limited to copying and translations.  This can have the effect of granting
-the IETF monopoly rights over the maintenance of work that is published in IETF
+Previous advice to the IETF Trust {{!ADVICE=RFC5377}} was that usage
+rights for IETF documents be limited to copying
+and translations.  This can have the effect of granting the IETF
+monopoly rights over the maintenance of work that is published in IETF
 documents.
 
 This document revises the advice to the IETF Trust given in RFC 5377
-{{!ADVICE=RFC5377}} to expand the rights granted in relation to IETF documents
+to expand the rights granted in relation to IETF documents
 to include the ability to create derivative works.
 
 The IETF Trust, by way of its Trustees, has indicated that it will respect the
@@ -109,8 +110,10 @@ monopoly over the maintenance of protocols that are published as IETF documents.
 
 While contributors are able to provide a license for this purpose, that depends
 on securing permission from all contributors.  The collaborative nature of IETF
-work makes it difficult to obtain this sort of license.  The IETF Trust is in a
-position to make more permissive terms more readily available.
+work makes it difficult to obtain this sort of license.  In many cases it may
+not even be practical to determine all the contributors and contact them.
+The IETF Trust is in a position to make more permissive terms more readily
+available for all new documents.
 
 Similar considerations apply to other document streams: IAB, IRTF, or
 independent submissions {{?RFC4844}}; however, see {{other}}.
