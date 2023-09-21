@@ -58,8 +58,8 @@ The IETF produces RFCs to further its mission {{?RFC3935}} of improving the
 Internet.  Intellectual property rights for these documents are held by the IETF
 Trust {{?BCP101}}.
 
-Previous advice to the IETF Trust {{!ADVICE=RFC5377}} given in RFC
-5377 was that usage rights for IETF documents be limited to copying
+Previous advice to the IETF Trust {{!ADVICE=RFC5377}} was that usage
+rights for IETF documents be limited to copying
 and translations.  This can have the effect of granting the IETF
 monopoly rights over the maintenance of work that is published in IETF
 documents.
