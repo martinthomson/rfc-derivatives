@@ -36,6 +36,12 @@ author:
     email: ekr@rtfm.com
     country: US
 
+ -
+    fullname: Timothy B. Terriberry
+    organization: Xiph.Org Foundation
+    email: tterribe@xiph.org
+    country: US
+
 normative:
   LICENSE:
     title: "Trust Legal Provisions (TLP)"
