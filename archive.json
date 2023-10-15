@@ -1,0 +1,229 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2023-10-15T01:19:28.890160+00:00",
+  "repo": "martinthomson/rfc-derivatives",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOKOD_-c5a1Nyf",
+      "title": "Add EKR as author",
+      "url": "https://github.com/martinthomson/rfc-derivatives/pull/1",
+      "state": "MERGED",
+      "author": "ekr",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2023-09-21T00:29:29Z",
+      "updatedAt": "2023-09-21T00:33:19Z",
+      "baseRepository": "martinthomson/rfc-derivatives",
+      "baseRefName": "main",
+      "baseRefOid": "5eed53082679e54da90f834f03e723e1cce3265e",
+      "headRepository": "martinthomson/rfc-derivatives",
+      "headRefName": "authorship",
+      "headRefOid": "36c8f2b6957af8289170b6f05ac0fd289ff14b84",
+      "closedAt": "2023-09-21T00:33:16Z",
+      "mergedAt": "2023-09-21T00:33:16Z",
+      "mergedBy": "martinthomson",
+      "mergeCommit": {
+        "oid": "a8c7f3ebaef5dbb2c7bf5b73b7083277e346cbc3"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOKOD_-c5a1Nzp",
+      "title": "Rework the name reuse section a bit",
+      "url": "https://github.com/martinthomson/rfc-derivatives/pull/2",
+      "state": "MERGED",
+      "author": "ekr",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "This makes two changes:\r\n\r\n1. Suggests making the grant contingent on using a different name. The reason for this is that it's not clear that the IETF has rights to exclude the use of names in general aside from tied to copyright.\r\n\r\n2. Suggests that the Trust maintain the ability to allow for name reuse in some circumstances",
+      "createdAt": "2023-09-21T00:29:38Z",
+      "updatedAt": "2023-09-21T00:34:29Z",
+      "baseRepository": "martinthomson/rfc-derivatives",
+      "baseRefName": "main",
+      "baseRefOid": "5eed53082679e54da90f834f03e723e1cce3265e",
+      "headRepository": "martinthomson/rfc-derivatives",
+      "headRefName": "name_reuse",
+      "headRefOid": "92e69e81ed18a65434e3ae6cf2864aae8e589c5b",
+      "closedAt": "2023-09-21T00:34:26Z",
+      "mergedAt": "2023-09-21T00:34:26Z",
+      "mergedBy": "martinthomson",
+      "mergeCommit": {
+        "oid": "512bca23742af46762ec7c9e2d362170119a434d"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOKOD_-c5hjeQ3",
+          "commit": {
+            "abbreviatedOid": "06cfa78"
+          },
+          "author": "martinthomson",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2023-09-21T00:34:02Z",
+          "updatedAt": "2023-09-21T00:34:02Z",
+          "comments": [
+            {
+              "originalPosition": 10,
+              "body": "```suggestion\r\n\r\nThe IETF Trust should maintain the ability to permit the reuse of a name in\r\n```",
+              "createdAt": "2023-09-21T00:34:02Z",
+              "updatedAt": "2023-09-21T00:34:02Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "PR_kwDOKOD_-c5a1N0m",
+      "title": "Minor editorial changes",
+      "url": "https://github.com/martinthomson/rfc-derivatives/pull/3",
+      "state": "MERGED",
+      "author": "ekr",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2023-09-21T00:29:45Z",
+      "updatedAt": "2023-09-21T00:55:10Z",
+      "baseRepository": "martinthomson/rfc-derivatives",
+      "baseRefName": "main",
+      "baseRefOid": "5eed53082679e54da90f834f03e723e1cce3265e",
+      "headRepository": "martinthomson/rfc-derivatives",
+      "headRefName": "ekr_editorial",
+      "headRefOid": "2dd1d6b8b2b61eb30f5a7dba742b36a2aadb278b",
+      "closedAt": "2023-09-21T00:55:09Z",
+      "mergedAt": "2023-09-21T00:55:09Z",
+      "mergedBy": "martinthomson",
+      "mergeCommit": {
+        "oid": "167634911be79b598529f043fb1ebd5432d9c7a4"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOKOD_-c5hjed8",
+          "commit": {
+            "abbreviatedOid": "1f65ff6"
+          },
+          "author": "martinthomson",
+          "authorAssociation": "OWNER",
+          "state": "APPROVED",
+          "body": "A quibble, but this is good.",
+          "createdAt": "2023-09-21T00:35:19Z",
+          "updatedAt": "2023-09-21T00:36:20Z",
+          "comments": [
+            {
+              "originalPosition": 8,
+              "body": "No need for two types of reference:\r\n```suggestion\r\nPrevious advice to the IETF Trust {{!ADVICE=RFC5377}} was that usage\r\nrights for IETF documents be limited to copying\r\n```",
+              "createdAt": "2023-09-21T00:35:19Z",
+              "updatedAt": "2023-09-21T00:36:20Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOKOD_-c5hje1r",
+          "commit": {
+            "abbreviatedOid": "1f65ff6"
+          },
+          "author": "ekr",
+          "authorAssociation": "COLLABORATOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2023-09-21T00:37:55Z",
+          "updatedAt": "2023-09-21T00:37:55Z",
+          "comments": [
+            {
+              "originalPosition": 8,
+              "body": "Agreed. I was imitating you below.",
+              "createdAt": "2023-09-21T00:37:55Z",
+              "updatedAt": "2023-09-21T00:37:55Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "PR_kwDOKOD_-c5a1Wj8",
+      "title": "Replace \"subject to\"",
+      "url": "https://github.com/martinthomson/rfc-derivatives/pull/4",
+      "state": "MERGED",
+      "author": "martinthomson",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "with \"conditional on\"\r\n\r\nNot sure if this is necessary, so close if you prefer the original.",
+      "createdAt": "2023-09-21T01:27:37Z",
+      "updatedAt": "2023-09-21T13:38:29Z",
+      "baseRepository": "martinthomson/rfc-derivatives",
+      "baseRefName": "main",
+      "baseRefOid": "167634911be79b598529f043fb1ebd5432d9c7a4",
+      "headRepository": "martinthomson/rfc-derivatives",
+      "headRefName": "conditional",
+      "headRefOid": "e052b1be7e5f13cb0000b3adf47e15c19a1ca41e",
+      "closedAt": "2023-09-21T13:38:28Z",
+      "mergedAt": "2023-09-21T13:38:28Z",
+      "mergedBy": "ekr",
+      "mergeCommit": {
+        "oid": "e191f16836cb30b42e30a7e5dfe529a055f20899"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
