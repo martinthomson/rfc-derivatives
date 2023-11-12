@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2023-11-09T01:16:24.344708+00:00",
+  "timestamp": "2023-11-12T01:20:44.897529+00:00",
   "repo": "martinthomson/rfc-derivatives",
   "labels": [
     {
@@ -49,7 +49,24 @@
       "color": "ffffff"
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "number": 5,
+      "id": "I_kwDOKOD_-c52WRlc",
+      "title": "IPR on the RFC",
+      "url": "https://github.com/martinthomson/rfc-derivatives/issues/5",
+      "state": "OPEN",
+      "author": "martinthomson",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Licenses won\u2019t carry over to derivative works.",
+      "createdAt": "2023-11-09T12:46:24Z",
+      "updatedAt": "2023-11-09T12:46:24Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
   "pulls": [
     {
       "number": 1,
