@@ -14,7 +14,7 @@ workgroup: "General Area Dispatch"
 keyword:
  - license
  - monopoly
-updates: 5377
+updates: 8721
 venue:
   group: "General Area Dispatch"
   type: "Working Group"
@@ -57,7 +57,7 @@ informative:
 
 --- abstract
 
-The IETF Trust holds rights to RFCs.  This document updates RFC 5377 to request
+The IETF Trust holds rights to RFCs.  This document updates RFC 8721 to request
 that the IETF Trust change its licensing for IETF documents to permit the
 creation of derivative works.
 
@@ -70,13 +70,13 @@ The IETF produces RFCs to further its mission {{?RFC3935}} of improving the
 Internet.  Intellectual property rights for these documents are held by the IETF
 Trust {{?BCP101}}.
 
-Previous advice to the IETF Trust {{!ADVICE=RFC5377}} was that usage
+Previous advice to the IETF Trust {{!ADVICE=RFC8721}} was that usage
 rights for IETF documents be limited to copying
 and translations.  This can have the effect of granting the IETF
 monopoly rights over the maintenance of work that is published in IETF
 documents.
 
-This document revises the advice to the IETF Trust given in RFC 5377
+This document revises the advice to the IETF Trust given in RFC 8721
 to expand the rights granted in relation to IETF documents
 to include the ability to create derivative works.
 
@@ -110,7 +110,7 @@ venue for standardization, making it necessary to produce revisions in another
 venue.  Licensing that permits the creation of derivative works could allow
 another organization to perform necessary maintenance or revisions.
 
-The licensing terms generated in response to RFC 5377 {{!ADVICE=RFC5377}} do not
+The licensing terms generated in response to RFC 8721 {{!ADVICE}} do not
 permit the creation of derivative works.  This could unduly give the IETF an
 monopoly over the maintenance of protocols that are published as IETF documents.
 
