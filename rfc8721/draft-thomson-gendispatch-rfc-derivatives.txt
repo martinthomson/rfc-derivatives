@@ -4,9 +4,11 @@
 
 General Area Dispatch                                         M. Thomson
 Internet-Draft                                                   Mozilla
-Updates: 5377 (if approved)                                  E. Rescorla
+Updates: 8721 (if approved)                                  E. Rescorla
 Intended status: Informational                   Windy Hill Systems, LLC
-Expires: 24 March 2024                                 21 September 2023
+Expires: 17 May 2024                                    T. B. Terriberry
+                                                     Xiph.Org Foundation
+                                                        14 November 2023
 
 
   Request to the Trustees of the IETF Trust to Permit the Creation of
@@ -15,7 +17,7 @@ Expires: 24 March 2024                                 21 September 2023
 
 Abstract
 
-   The IETF Trust holds rights to RFCs.  This document updates RFC 5377
+   The IETF Trust holds rights to RFCs.  This document updates RFC 8721
    to request that the IETF Trust change its licensing for IETF
    documents to permit the creation of derivative works.
 
@@ -52,7 +54,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 24 March 2024.
+   This Internet-Draft will expire on 17 May 2024.
 
 Copyright Notice
 
@@ -91,14 +93,14 @@ Table of Contents
    the Internet.  Intellectual property rights for these documents are
    held by the IETF Trust [BCP101].
 
-   Previous advice to the IETF Trust advised that usage rights for IETF
-   documents be limited to copying and translations.  This can have the
-   effect of granting the IETF monopoly rights over the maintenance of
-   work that is published in IETF documents.
+   Previous advice to the IETF Trust [ADVICE] was that usage rights for
+   IETF documents be limited to copying and translations.  This can have
+   the effect of granting the IETF monopoly rights over the maintenance
+   of work that is published in IETF documents.
 
-   This document revises the advice to the IETF Trust given in RFC 5377
-   [ADVICE] to expand the rights granted in relation to IETF documents
-   to include the ability to create derivative works.
+   This document revises the advice to the IETF Trust given in RFC 8721
+   to expand the rights granted in relation to IETF documents to include
+   the ability to create derivative works.
 
    The IETF Trust, by way of its Trustees, has indicated that it will
    respect the wishes of the IETF in regard to the rights it will grant
@@ -133,7 +135,7 @@ Table of Contents
    permits the creation of derivative works could allow another
    organization to perform necessary maintenance or revisions.
 
-   The licensing terms generated in response to RFC 5377 [ADVICE] do not
+   The licensing terms generated in response to RFC 8721 [ADVICE] do not
    permit the creation of derivative works.  This could unduly give the
    IETF an monopoly over the maintenance of protocols that are published
    as IETF documents.
@@ -141,8 +143,10 @@ Table of Contents
    While contributors are able to provide a license for this purpose,
    that depends on securing permission from all contributors.  The
    collaborative nature of IETF work makes it difficult to obtain this
-   sort of license.  The IETF Trust is in a position to make more
-   permissive terms more readily available.
+   sort of license.  In many cases it may not even be practical to
+   determine all the contributors and contact them.  The IETF Trust is
+   in a position to make more permissive terms more readily available
+   for all new documents.
 
    Similar considerations apply to other document streams: IAB, IRTF, or
    independent submissions [RFC4844]; however, see Section 4.
@@ -166,10 +170,16 @@ Table of Contents
 3.2.  Withholding of Naming Rights
 
    The IETF Trust is advised to make the license to create derivative
-   works not include the right to use protocol names when creating new
-   versions of existing protocols.  This need not apply to reused or
-   copied protocol elements or fields; it only applies to the protocol,
-   extension, or component that is being revised.
+   works conditional on the use of a distinct protocol name when
+   creating new versions of existing protocols.  This need not apply to
+   reused or copied protocol elements or fields; it only applies to the
+   protocol, extension, or component that is being revised.
+
+   The IETF Trust should maintain the ability to permit the reuse of a
+   name in appropriate cases, such as when the IETF agrees to transfer
+   development of a protocol to a different organization or where the
+   IETF has decided not to take up a given piece of work and the
+   proponents bring it elsewhere.
 
    The potential for confusion about the status of a derivative work is
    not completely avoidable.  However, the requirement to use a new name
@@ -213,8 +223,8 @@ Table of Contents
 
    [ADVICE]   Halpern, J., Ed., "Advice to the Trustees of the IETF
               Trust on Rights to Be Granted in IETF Documents",
-              RFC 5377, DOI 10.17487/RFC5377, November 2008,
-              <https://www.rfc-editor.org/rfc/rfc5377>.
+              RFC 8721, DOI 10.17487/RFC8721, February 2020,
+              <https://www.rfc-editor.org/rfc/rfc8721>.
 
    [LICENSE]  IETF Trust, "Trust Legal Provisions (TLP)", Revision 5.0,
               25 March 2015, <https://trustee.ietf.org/documents/trust-
@@ -258,3 +268,9 @@ Authors' Addresses
    Windy Hill Systems, LLC
    United States of America
    Email: ekr@rtfm.com
+
+
+   Timothy B. Terriberry
+   Xiph.Org Foundation
+   United States of America
+   Email: tterribe@xiph.org
