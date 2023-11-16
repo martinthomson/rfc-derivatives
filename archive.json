@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2023-11-14T01:16:15.301465+00:00",
+  "timestamp": "2023-11-16T01:18:35.565277+00:00",
   "repo": "martinthomson/rfc-derivatives",
   "labels": [
     {
@@ -239,6 +239,58 @@
       "mergeCommit": {
         "oid": "e191f16836cb30b42e30a7e5dfe529a055f20899"
       },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 6,
+      "id": "PR_kwDOKOD_-c5fX447",
+      "title": "Update RFC 8721, which obsoleted 5377",
+      "url": "https://github.com/martinthomson/rfc-derivatives/pull/6",
+      "state": "OPEN",
+      "author": "martinthomson",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2023-11-14T05:44:36Z",
+      "updatedAt": "2023-11-14T05:44:36Z",
+      "baseRepository": "martinthomson/rfc-derivatives",
+      "baseRefName": "main",
+      "baseRefOid": "fcaf24b751f8da3540903f04aa94cf1175d748c9",
+      "headRepository": "martinthomson/rfc-derivatives",
+      "headRefName": "rfc8721",
+      "headRefOid": "534e9af9d452aa600e16589e754c613b386c0bc2",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 7,
+      "id": "PR_kwDOKOD_-c5fX7Pn",
+      "title": "Attempt to clarify pre-5378 status",
+      "url": "https://github.com/martinthomson/rfc-derivatives/pull/7",
+      "state": "OPEN",
+      "author": "martinthomson",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "IETF Documents, but only those that are post-5378.\r\n\r\nHopefully this clarifies intent, which was not clear to @hardie.",
+      "createdAt": "2023-11-14T05:57:37Z",
+      "updatedAt": "2023-11-14T05:57:37Z",
+      "baseRepository": "martinthomson/rfc-derivatives",
+      "baseRefName": "main",
+      "baseRefOid": "fcaf24b751f8da3540903f04aa94cf1175d748c9",
+      "headRepository": "martinthomson/rfc-derivatives",
+      "headRefName": "pre-rfc5378",
+      "headRefOid": "d689e727f302fdefbc8f49799c81ed15356d9d94",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
       "comments": [],
       "reviews": []
     }
