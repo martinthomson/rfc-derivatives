@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2023-11-16T01:18:35.565277+00:00",
+  "timestamp": "2023-11-19T01:23:14.217455+00:00",
   "repo": "martinthomson/rfc-derivatives",
   "labels": [
     {
@@ -63,6 +63,22 @@
       "body": "Licenses won\u2019t carry over to derivative works.",
       "createdAt": "2023-11-09T12:46:24Z",
       "updatedAt": "2023-11-09T12:46:24Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 8,
+      "id": "I_kwDOKOD_-c53Gmkc",
+      "title": "cite BCP125 as background",
+      "url": "https://github.com/martinthomson/rfc-derivatives/issues/8",
+      "state": "OPEN",
+      "author": "martinthomson",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "There are already provisions in that BCP along similar lines, though those assume a gatekeeper function, whereas this draft is about not having gatekeepers.",
+      "createdAt": "2023-11-17T03:43:38Z",
+      "updatedAt": "2023-11-17T03:43:38Z",
       "closedAt": null,
       "comments": []
     }
