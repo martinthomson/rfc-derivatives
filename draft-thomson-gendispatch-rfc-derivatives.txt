@@ -6,9 +6,9 @@ General Area Dispatch                                         M. Thomson
 Internet-Draft                                                   Mozilla
 Updates: 5377 (if approved)                                  E. Rescorla
 Intended status: Informational                   Windy Hill Systems, LLC
-Expires: 31 March 2024                                  T. B. Terriberry
+Expires: 28 May 2025                                    T. B. Terriberry
                                                      Xiph.Org Foundation
-                                                       28 September 2023
+                                                        24 November 2024
 
 
   Request to the Trustees of the IETF Trust to Permit the Creation of
@@ -54,11 +54,11 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 31 March 2024.
+   This Internet-Draft will expire on 28 May 2025.
 
 Copyright Notice
 
-   Copyright (c) 2023 IETF Trust and the persons identified as the
+   Copyright (c) 2024 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
    This document is subject to BCP 78 and the IETF Trust's Legal
@@ -236,17 +236,24 @@ Table of Contents
 
 8.2.  Informative References
 
-   [BCP101]   Haberman, B., Hall, J., and J. Livingood, "Structure of
+   [BCP101]   Best Current Practice 101,
+              <https://www.rfc-editor.org/info/bcp101>.
+              At the time of writing, this BCP comprises the following:
+
+              Haberman, B., Hall, J., and J. Livingood, "Structure of
               the IETF Administrative Support Activity, Version 2.0",
-              BCP 101, RFC 8711, February 2020.
+              BCP 101, RFC 8711, DOI 10.17487/RFC8711, February 2020,
+              <https://www.rfc-editor.org/info/rfc8711>.
 
               Arkko, J. and T. Hardie, "Update to the Process for
               Selection of Trustees for the IETF Trust", BCP 101,
-              RFC 8714, February 2020.
+              RFC 8714, DOI 10.17487/RFC8714, February 2020,
+              <https://www.rfc-editor.org/info/rfc8714>.
 
               Klensin, J., Ed., "IETF Administrative Support Activity
               2.0: Consolidated Updates to IETF Administrative
-              Terminology", BCP 101, RFC 8717, February 2020.
+              Terminology", BCP 101, RFC 8717, DOI 10.17487/RFC8717,
+              February 2020, <https://www.rfc-editor.org/info/rfc8717>.
 
    [RFC4844]  Daigle, L., Ed. and IAB, "The RFC Series and RFC Editor",
               RFC 4844, DOI 10.17487/RFC4844, July 2007,
