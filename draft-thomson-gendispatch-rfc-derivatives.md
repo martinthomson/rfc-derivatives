@@ -175,12 +175,16 @@ RFC series and for work contributed to other streams.  However, this document
 cannot serve as advice from other streams; it can only capture IETF consensus.
 
 
-# Older RFCs {#old}
+# Older IETF Documents {#old}
 
-As noted in {{LICENSE}}, IETF documents published prior to the effective date of
-that license are subject to other licensing provisions.  The IETF Trust is not
-requested to attempt to secure the ability to alter the license terms for these
-documents.
+The IETF Trust is requested to license all existing IETF Documents under these
+amended terms, where possible.
+
+As noted in Clause 5.c. of {{LICENSE}}, IETF documents published prior to
+November 10, 2008 are subject to licensing provisions that are not covered by
+the IETF Trust licenses {{LICENSE}}.  The IETF Trust is therefore not obligated
+to alter the license terms for these documents or attempt to secure the right to
+do so.
 
 
 # Security Considerations
